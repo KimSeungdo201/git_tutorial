@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+1 line
+2 line
+=======
+1 line
+2 line
+>>>>>>> ccada4c (First commit from new_branch)
