@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 1 line
 2 line
+<<<<<<< Updated upstream
 =======
 1 line
 2 line
 >>>>>>> ccada4c (First commit from new_branch)
+=======
+>>>>>>> Stashed changes
